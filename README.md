@@ -45,7 +45,7 @@ The prototype consists of a plant irrigation setup with a water reservoir, water
 
 ## 📸 Prototype
 
-PUT YOUR IMAGE HERE
+![Smart Irrigation Prototype](IoT_based_irrigation_system.jpeg)
 
 ## 🚀 Learning Outcomes
 
