@@ -34,6 +34,24 @@ Plant Irrigation
 
 The prototype consists of a plant irrigation setup with a water reservoir, water delivery mechanism, electronic control system, and associated hardware components.
 
+## 🔧 Hardware Components
+
+- Arduino Uno
+- Soil Moisture Sensor
+- Relay Module
+- Water Pump
+- 16×2 I2C LCD Display
+- Water Reservoir and Tubing
+
+## ⚙️ Working Principle
+
+1. The soil moisture sensor reads the moisture level of the soil.
+2. The Arduino processes the sensor reading.
+3. The soil moisture value is displayed on the 16×2 I2C LCD.
+4. The sensor reading is compared with a predefined threshold.
+5. Based on the condition, the relay controls the water pump.
+6. The system continuously monitors the soil at regular intervals.
+
 ## 🛠️ Skills Demonstrated
 
 - Arduino Programming
